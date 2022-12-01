@@ -8,6 +8,16 @@ Ce répo pour formation sur les tests unitaires.
 - ts-node
 - Jest
 
+## Installation
+
+Installation des dépendances
+
+```shell
+
+npm i
+
+```
+
 ## Les tests
 
 Pour être pris en compte, les fichiers et leurs tests doivent être présents dans le répertoire `./src`
